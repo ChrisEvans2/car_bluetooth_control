@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Joystick
+Comment=MyJoystick
+Exec=python3 /home/pi/stick_ctrl/yaogan_test3_17.py
+Icon=/home/pi/.config/autostart/stickCtrl.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+
+

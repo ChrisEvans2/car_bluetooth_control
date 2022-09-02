@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=stickCtrl
+Comment=Python Program
+Exec=python3 /home/pi/stick_ctrl/beginning.py
+Icon=/home/pi/stick_ctrl/joystick_control.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
